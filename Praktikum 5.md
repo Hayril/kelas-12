@@ -10,6 +10,11 @@
 # Tabel Pegawai
 ![gmbr](aset/pegawai.jpg)
 
+## Struktur Tabel
+![img](aset/struktur.png)
+
+---
+
 # Nomor 1
 ## Program
 ```MYSQL
