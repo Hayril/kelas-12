@@ -11,7 +11,7 @@
 ![gmbr](aset/pegawai.jpg)
 
 ## Struktur Tabel
-![img](aset/struktur.png)
+![imgE](aset/struktur.PNG)
 
 ---
 
