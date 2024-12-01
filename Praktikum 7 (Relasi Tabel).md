@@ -1,24 +1,24 @@
 # Tabel Keaktifan
-![keaktifan](aset/TABELKEAKTIFAN.png)
+![keaktifan](asett/TABELKEAKTIFAN.png)
 
 ---
 
 # Tabel Employees
-![emplo](aset/employes.png)
+![emplo](asett/employes.png)
 
 # Tabel Products
-![image](aset/product.png)
+![image](asett/product.png)
 
 # Tabel Order
 
-![image](aset/orders.png)
+![image](asett/orders.png)
 # Tabel Customers
 
-![image](aset/customer.png)
+![image](asett/customer.png)
 
 # Tabel OrderDetails
 
-![image](aset/orderdetails.png)
+![image](asett/orderdetails.png)
 
 ___
 
@@ -42,7 +42,7 @@ SELECT orders.OrderID,
 
 ## Hasil
 
-![image](aset/relasi.png)
+![image](asett/relasi.png)
 
 ## Analisis
 - `SELECT` untuk memilih kolom mana saja Yang ingin ditampilkan dan dari tabel mana kolom tersebut diambil.
@@ -71,7 +71,7 @@ c.CustomerID AND c.City="London";
 
 ## Hasil
 
-![item](aset/2.png)
+![item](asett/2.png)
 
 ## analisis
 
@@ -109,7 +109,7 @@ SELECT o.OrderID, o.OrderDate, c.CompanyName,
 
 ## Hasil
 
-![image](aset/3.png)
+![image](asett/3.png)
 
 ## Analisis
 - `SELECT` untuk memilih kolom mana saja yang ingin ditampilkan dari tabel mana kolom tersebut diambil.
@@ -144,7 +144,7 @@ SELECT o.OrderID, o.OrderDate, c.CompanyName,
 
 ## Hasil
 
-![image](aset/4.png)
+![image](asett/4.png)
 ## Analisis
 - `SELECT` untuk memilih kolom mana saja yang ingin ditampilkan dari tabel mana kolom tersebut diambil.
 - `o.orderID,o.orderDate` kolom orderID dan orderDate dari tabel `o`(orders) dipilih untuk ditampilkan.
@@ -180,7 +180,7 @@ SELECT o.OrderID, o.OrderDate, c.CompanyName,
 
 ## Hasil
 
-![image](aset/5.png)
+![image](asett/5.png)
 
 ## Analisis
 
@@ -213,7 +213,7 @@ SELECT c.CustomerID, c.CompanyName, o.OrderID AS OrdID,
 
 ## Hasil
 
-![image](aset/6.png)
+![image](asett/6.png)
 
 ## Analisis
 
@@ -246,7 +246,7 @@ CREATE VIEW CusrOrderIDmp
 ```
 
 ## Hasil
-![image](aset/7.png)
+![image](asett/7.png)
 
 ## Analisis
 
@@ -284,7 +284,7 @@ CREATE VIEW odProducts
 
 ## Hasil
 
-![iamge](aset/8.png)
+![iamge](asett/8.png)
 ## Analisis
 
 - `CREATE VIEW odproduct`: Untuk membuat tabel virtual dengan nama odproducts.
@@ -311,7 +311,7 @@ SELECT c.CustomerID, c.CompanyName, o.OrderID, od.ProductID, ROUND(od.UnitPrice,
 
 ## Hasil
 
-![image](aset/9.png)
+![image](asett/9.png)
 
 ## Analisis
 
@@ -353,7 +353,7 @@ SELECT c.CustomerID,
 
 ## Hasil
 
-![image](aset/10.png)
+![image](asett/10.png)
 
 ## Analisis
 
