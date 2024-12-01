@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum 5.md",
+                "file": "Relasi Tabel praktikum 7 .md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum 5.md",
+                "file": "Relasi Tabel praktikum 7 .md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum 5.md",
+                "file": "Relasi Tabel praktikum 7 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum 5.md",
+                "file": "Relasi Tabel praktikum 7 .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum 5.md"
+                "file": "Relasi Tabel praktikum 7 .md"
               }
             }
           }
@@ -173,24 +173,27 @@
   },
   "active": "1284f2293b221194",
   "lastOpenFiles": [
-    "Praktikum 5.pdf",
+    "aset/nomor6(7).png",
+    "aset/nomr6(7).png",
+    "aset/nomor3(7).md",
+    "aset/nomor5(7).png",
     "Praktikum GROUP BY.md",
-    "Praktikum 5.md",
     "Praktikum 7.md",
+    "Praktikum 5.md",
+    "Relasi Tabel praktikum 7 .md",
+    "GAMBARBASDAT/grupby7.png",
     "GAMBARBASDAT/grupby6.png",
     "GAMBARBASDAT/grupby5.png",
     "GAMBARBASDAT/grupby4.png",
     "GAMBARBASDAT/grupby3.png",
     "GAMBARBASDAT/grupby2.png",
     "GAMBARBASDAT/grupby1.png",
-    "GAMBARBASDAT/grupby7.png",
+    "Praktikum 5.pdf",
     "GAMBARBASDAT",
     "New folder",
     "aset/nomor4(7).png",
-    "aset/nomor3(7).png",
     "aset/Video/Nonton Furiosa- A Mad Max Saga (2024).ts",
     "aset/Video",
-    "aset/nomor2(7).png",
     "aset",
     "Basis Data/Basis Data XII RPL 1.md",
     "Basis Data/Agregasi.md",
@@ -205,7 +208,6 @@
     "Basis Data/ALTER.md",
     "Basis Data/ALTER.pdf",
     "PRAKTIKUM BASIS DATA/KELOMPOK 5 PRAKTIKUM 9.md",
-    "PRAKTIKUM BASIS DATA/KELOMPOK 5 PRAKTIKUM 9.pdf",
     "phpmyadmin/php Dasar.md",
     "Pemrograman web/HTML.md",
     "EKSPLORASI CSS/CSS UNIT.md",
@@ -216,8 +218,6 @@
     "phpmyadmin/php mysql.md",
     "OBSIDIAN ASEK/Pemrograman web/PEMBELAJARAN 6.md",
     "OBSIDIAN ASEK/Pemrograman web/PEMBELAJARAN 5.md",
-    "OBSIDIAN ASEK/Pemrograman web/PEMBELAJARAN 4.md",
-    "OBSIDIAN ASEK/Pemrograman web/PEMBELAJARAN  3.md",
-    "OBSIDIAN ASEK/Pemrograman web/PEMBELAJARAN 1.md"
+    "OBSIDIAN ASEK/Pemrograman web/PEMBELAJARAN 4.md"
   ]
 }
