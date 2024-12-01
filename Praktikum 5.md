@@ -7,6 +7,13 @@
 |  4  | MUH.TAUFIK      | 3         | Membantu mencari soal                 |
 |  5  | ABD RAHMAN      | 3         | Mencari jawaban dan Membeli gorengan  |
 
+# Tabel Pegawai
+![gmbr](aset/pegawai.jpg)
+
+## Struktur Tabel
+![imgE](aset/struktur.PNG)
+
+---
 
 # Nomor 1
 ## Program
